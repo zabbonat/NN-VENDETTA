@@ -1,2 +1,1 @@
-# NN-VENDETTA
-CULO
+# Lab 1 Neural Network
